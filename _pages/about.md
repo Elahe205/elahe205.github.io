@@ -22,9 +22,3 @@ latest_posts:
 ---
 
 I am a PhD candidate in Electrical and Computer Engineering at UC Davis, specializing in machine learning, multimodal AI, and healthcare technologies. My work focuses on developing intelligent systems that leverage physiological signals, clinical data, and large language models to better understand human health and behavior. I have experience building end-to-end AI pipelines across wearable sensing, natural language processing, and medical prediction tasks, with several publications in leading venues. I am particularly interested in translating research into real-world applications that can improve patient care and make advanced AI tools more accessible.
-
-
-
-
-
-
