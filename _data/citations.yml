@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-06-08'
 papers:
   vzij5KYAAAAJ:0EnyYjriUFMC:
     citations: 3
     title: Advanced energy-efficient system for precision electrodermal activity monitoring in stress detection
     year: '2024'
   vzij5KYAAAAJ:3fE2CSJIrl8C:
-    citations: 18
+    citations: 19
     title: 'Survey on pain detection using machine learning models: narrative review'
     year: '2025'
   vzij5KYAAAAJ:9yKSN-GCB0IC:
@@ -14,7 +14,7 @@ papers:
     title: A Complexity Control Model for The Intra Coding of The HEVC Standard
     year: '2019'
   vzij5KYAAAAJ:IjCSPb-OGe4C:
-    citations: 34
+    citations: 35
     title: A low cost EDA-based stress detection using machine learning
     year: '2022'
   vzij5KYAAAAJ:KlAtU1dfN6UC:
@@ -22,7 +22,7 @@ papers:
     title: 'Large language models for opioid-induced respiratory depression prediction in hospitalized patients: A retrospective study'
     year: '2025'
   vzij5KYAAAAJ:MXK_kJrjxJIC:
-    citations: 42
+    citations: 43
     title: 'Transformers: A security perspective'
     year: '2024'
   vzij5KYAAAAJ:Tyk-4Ss8FVUC:
@@ -30,7 +30,7 @@ papers:
     title: 'Towards generalized ml model in automated physiological arousal computing: A transfer learning-based domain generalization approach'
     year: '2022'
   vzij5KYAAAAJ:ULOm3_A8WrAC:
-    citations: 1
+    citations: 2
     title: 'FaRAccel: FPGA-Accelerated Defense Architecture for Efficient Bit-Flip Attack Resilience in Transformer Models'
     year: '2025'
   vzij5KYAAAAJ:UeHWp8X0CEIC:
@@ -38,11 +38,11 @@ papers:
     title: 'Atlas: An adaptive transfer learning based pain assessment system: A real life unsupervised pain assessment solution'
     year: '2022'
   vzij5KYAAAAJ:UebtZRa9Y70C:
-    citations: 11
+    citations: 12
     title: 'SFU-HW-Objects-v1: Object labelled dataset on raw video sequences'
     year: '2020'
   vzij5KYAAAAJ:WF5omc3nYNoC:
-    citations: 10
+    citations: 11
     title: Introducing an open-source python toolkit for machine learning research in physiological signal based affective computing
     year: '2023'
   vzij5KYAAAAJ:Y0pCki6q_DkC:
@@ -54,19 +54,23 @@ papers:
     title: Using automated experiments and machine learning to identify composition-property relationships in halide perovskites
     year: '2025'
   vzij5KYAAAAJ:YsMSGLbcyi4C:
-    citations: 17
+    citations: 18
     title: 'Short: Real-time bladder monitoring by bio-impedance analysis to aid urinary incontinence'
     year: '2023'
   vzij5KYAAAAJ:Zph67rFs4hoC:
     citations: 1
     title: Machine Learning Reveals Composition Dependent Thermal Stability in Halide Perovskites
     year: '2025'
+  vzij5KYAAAAJ:_kc_bZDykSQC:
+    citations: 0
+    title: 'Fine-Grained Patching via Contention Balancer: A Practical Mitigation Strategy for Spectre Vulnerabilities Using SpecScope Contention Maps'
+    year: '2026'
   vzij5KYAAAAJ:d1gkVwhDpl0C:
-    citations: 44
+    citations: 45
     title: A dataset of labelled objects on raw video sequences
     year: '2021'
   vzij5KYAAAAJ:eQOLeE2rZwMC:
-    citations: 17
+    citations: 19
     title: 'Emotion and stress recognition utilizing galvanic skin response and wearable technology: a real-time approach for mental health care'
     year: '2023'
   vzij5KYAAAAJ:hqOjcs7Dif8C:
@@ -74,7 +78,7 @@ papers:
     title: 'Apex: Attention on personality based emotion rexgnition framework'
     year: '2024'
   vzij5KYAAAAJ:qjMakFHDy7sC:
-    citations: 23
+    citations: 25
     title: Convolution neural network for pain intensity assessment from facial expression
     year: '2022'
   vzij5KYAAAAJ:u-x6o8ySG0sC:
@@ -86,6 +90,6 @@ papers:
     title: Fine-grain complexity control of HEVC intra prediction in battery-powered video codecs
     year: '2021'
   vzij5KYAAAAJ:zYLM7Y9cAGgC:
-    citations: 17
+    citations: 18
     title: Prevent over-fitting and redundancy in physiological signal analyses for stress detection
     year: '2022'
