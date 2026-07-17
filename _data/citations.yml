@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-17'
 papers:
   vzij5KYAAAAJ:0EnyYjriUFMC:
     citations: 4
     title: Advanced energy-efficient system for precision electrodermal activity monitoring in stress detection
     year: '2024'
   vzij5KYAAAAJ:3fE2CSJIrl8C:
-    citations: 21
+    citations: 25
     title: 'Survey on pain detection using machine learning models: narrative review'
     year: '2025'
   vzij5KYAAAAJ:4TOpqqG69KYC:
@@ -26,7 +26,7 @@ papers:
     title: 'Large language models for opioid-induced respiratory depression prediction in hospitalized patients: A retrospective study'
     year: '2025'
   vzij5KYAAAAJ:MXK_kJrjxJIC:
-    citations: 49
+    citations: 50
     title: 'Transformers: A security perspective'
     year: '2024'
   vzij5KYAAAAJ:Tyk-4Ss8FVUC:
@@ -82,7 +82,7 @@ papers:
     title: 'Apex: Attention on personality based emotion rexgnition framework'
     year: '2024'
   vzij5KYAAAAJ:qjMakFHDy7sC:
-    citations: 26
+    citations: 27
     title: Convolution neural network for pain intensity assessment from facial expression
     year: '2022'
   vzij5KYAAAAJ:u-x6o8ySG0sC:
