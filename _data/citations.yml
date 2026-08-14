@@ -1,13 +1,13 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-14'
 papers:
   vzij5KYAAAAJ:0EnyYjriUFMC:
-    citations: 4
+    citations: 5
     title: Advanced energy-efficient system for precision electrodermal activity monitoring in stress detection
     year: '2024'
   vzij5KYAAAAJ:3fE2CSJIrl8C:
-    citations: 26
-    title: 'Survey on pain detection using machine learning models: narrative review'
+    citations: 27
+    title: 'Survey on pain detection using machine learning models: Narrative review'
     year: '2025'
   vzij5KYAAAAJ:4TOpqqG69KYC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: A Complexity Control Model for The Intra Coding of The HEVC Standard
     year: '2019'
   vzij5KYAAAAJ:IjCSPb-OGe4C:
-    citations: 36
+    citations: 35
     title: A low cost EDA-based stress detection using machine learning
     year: '2022'
   vzij5KYAAAAJ:KlAtU1dfN6UC:
@@ -26,7 +26,7 @@ papers:
     title: 'Large language models for opioid-induced respiratory depression prediction in hospitalized patients: A retrospective study'
     year: '2025'
   vzij5KYAAAAJ:MXK_kJrjxJIC:
-    citations: 51
+    citations: 53
     title: 'Transformers: A security perspective'
     year: '2024'
   vzij5KYAAAAJ:Tyk-4Ss8FVUC:
@@ -35,7 +35,7 @@ papers:
     year: '2022'
   vzij5KYAAAAJ:ULOm3_A8WrAC:
     citations: 2
-    title: 'FaRAccel: FPGA-Accelerated Defense Architecture for Efficient Bit-Flip Attack Resilience in Transformer Models'
+    title: 'Faraccel: Fpga-accelerated defense architecture for efficient bit-flip attack resilience in transformer models'
     year: '2025'
   vzij5KYAAAAJ:UeHWp8X0CEIC:
     citations: 11
@@ -70,7 +70,7 @@ papers:
     title: 'Fine-Grained Patching via Contention Balancer: A Practical Mitigation Strategy for Spectre Vulnerabilities Using SpecScope Contention Maps'
     year: '2026'
   vzij5KYAAAAJ:d1gkVwhDpl0C:
-    citations: 47
+    citations: 49
     title: A dataset of labelled objects on raw video sequences
     year: '2021'
   vzij5KYAAAAJ:eQOLeE2rZwMC:
