@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-09-04'
 papers:
   vzij5KYAAAAJ:0EnyYjriUFMC:
     citations: 5
@@ -9,26 +9,42 @@ papers:
     citations: 29
     title: 'Survey on pain detection using machine learning models: Narrative review'
     year: '2025'
+  vzij5KYAAAAJ:4DMP91E08xMC:
+    citations: 0
+    title: Construction and immunogenicity of a genetically mutant of a native Shigella dysenteriae type 1 isolated from an Iranian patient with diarrhea by recombineering
+    year: '2012'
   vzij5KYAAAAJ:4TOpqqG69KYC:
     citations: 0
     title: "High\u2010Accuracy Machine Learning Projections of Composition\u2010Dependent Thermal Stability in Halide Perovskites"
     year: '2026'
+  vzij5KYAAAAJ:9ZlFYXVOiuMC:
+    citations: 0
+    title: "IDENTIFICATION, CLONING, SEQUENCING VIRG GENE AND CONSTRUCTION A LIVE ATTENUATED \u0394VIRG (ICSA) STRAIN BYUSING \u03BB RED RECOMBINASE"
+    year: '2014'
   vzij5KYAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: A Complexity Control Model for The Intra Coding of The HEVC Standard
     year: '2019'
   vzij5KYAAAAJ:IjCSPb-OGe4C:
-    citations: 35
+    citations: 36
     title: A low cost EDA-based stress detection using machine learning
     year: '2022'
   vzij5KYAAAAJ:KlAtU1dfN6UC:
     citations: 3
     title: 'Large language models for opioid-induced respiratory depression prediction in hospitalized patients: A retrospective study'
     year: '2025'
+  vzij5KYAAAAJ:M3ejUd6NZC8C:
+    citations: 0
+    title: 'Analysis of the Effectiveness and Sustainability of the Results of Using Mobile Health Technologies in Improving Health-Related Behaviors: A Review.'
+    year: '2025'
   vzij5KYAAAAJ:MXK_kJrjxJIC:
     citations: 54
     title: 'Transformers: A security perspective'
     year: '2024'
+  vzij5KYAAAAJ:QIV2ME_5wuYC:
+    citations: 0
+    title: SpO Predictor-Guided Stage-Wise Time-Frequency Reconstruction of Low-Quality Dual-Wavelength PPG for Oxygen Saturation Estimation
+    year: '2026'
   vzij5KYAAAAJ:Tyk-4Ss8FVUC:
     citations: 18
     title: 'Towards generalized ml model in automated physiological arousal computing: A transfer learning-based domain generalization approach'
@@ -49,6 +65,10 @@ papers:
     citations: 13
     title: Introducing an open-source python toolkit for machine learning research in physiological signal based affective computing
     year: '2023'
+  vzij5KYAAAAJ:Wp0gIr-vW9MC:
+    citations: 1
+    title: 'Effect of a Mobile Application on Self-Care Dementia Prevention in People Over 40: An Intervention Study'
+    year: '2024'
   vzij5KYAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: Mahmoud Reza Hashemi & Mohammad Ghanbari
@@ -69,10 +89,18 @@ papers:
     citations: 0
     title: 'Fine-Grained Patching via Contention Balancer: A Practical Mitigation Strategy for Spectre Vulnerabilities Using SpecScope Contention Maps'
     year: '2026'
+  vzij5KYAAAAJ:aqlVkmm33-oC:
+    citations: 0
+    title: Data Efficient Cuffless Blood Pressure Classification from PPG using Foundation Model Embeddings and Few-Shot Learning
+    year: Unknown Year
   vzij5KYAAAAJ:d1gkVwhDpl0C:
     citations: 49
     title: A dataset of labelled objects on raw video sequences
     year: '2021'
+  vzij5KYAAAAJ:dhFuZR0502QC:
+    citations: 3
+    title: Transforming 3d MRI to 2d feature maps using pre-trained models for diagnosis of attention deficit hyperactivity disorder
+    year: '2025'
   vzij5KYAAAAJ:eQOLeE2rZwMC:
     citations: 21
     title: 'Emotion and stress recognition utilizing galvanic skin response and wearable technology: a real-time approach for mental health care'
@@ -81,10 +109,18 @@ papers:
     citations: 7
     title: 'Apex: Attention on personality based emotion rexgnition framework'
     year: '2024'
+  vzij5KYAAAAJ:mVmsd5A6BfQC:
+    citations: 0
+    title: "High\u2010Accuracy Machine Learning Projections of Composition\u2010Dependent Thermal Stability in Halide Perovskites (Adv. Mater. 48/2026)"
+    year: '2026'
   vzij5KYAAAAJ:qjMakFHDy7sC:
     citations: 27
     title: Convolution neural network for pain intensity assessment from facial expression
     year: '2022'
+  vzij5KYAAAAJ:qxL8FJ1GzNcC:
+    citations: 0
+    title: 'Effect of Virtual Reality on Reducing Anxiety in Children Suffering from Chronic Stress: A Systematic Review'
+    year: '2024'
   vzij5KYAAAAJ:u-x6o8ySG0sC:
     citations: 25
     title: A computationally scalable fast intra coding scheme for HEVC video encoder
